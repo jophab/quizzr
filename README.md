@@ -5,5 +5,5 @@ Quizzr is a self-hosted, Open source CMS solution for  creating and managing onl
 
 ##Developers
 
-###GAUTAM KRISHNA R [https://github.com/gautamkrishnar/]
-###JOBIN PHILIP ABRAHAM [https://github.com/jophab/]
+#### GAUTAM KRISHNA R [https://github.com/gautamkrishnar/]
+#### JOBIN PHILIP ABRAHAM [https://github.com/jophab/]
